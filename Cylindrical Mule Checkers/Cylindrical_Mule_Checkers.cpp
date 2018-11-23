@@ -1,4 +1,7 @@
 #include <iostream>
 #include <cmath>
 
-//test
+int main
+{
+	cout << "hello";
+}
